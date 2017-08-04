@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "lil-intro-vert-executor",
+    "name": "lil-intro-vert",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "kyfnexglu9",
+    "module": "bot"
+  }
+}
